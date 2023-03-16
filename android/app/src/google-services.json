@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374076404519",
+    "project_id": "kdamegebya",
+    "storage_bucket": "kdamegebya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374076404519:android:2009a1963739d7c56f6f02",
+        "android_client_info": {
+          "package_name": "com.abrahamkifle.kdamegebya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374076404519-i06cu0jq1gh8h63bm92crfn5lntoili7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycArSEXJZuhCjaMC7dvJmTlOKXdEFA5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374076404519-i06cu0jq1gh8h63bm92crfn5lntoili7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
